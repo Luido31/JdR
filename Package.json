@@ -1,0 +1,12 @@
+{
+  " nom " : " bot " ,
+  " version " : " 1.0.0 " ,
+  " description " : " " ,
+  " main " : " index.js " ,
+  " scripts " : {
+    " test " : " echo \" Erreur: aucun test spécifié \ " && exit 1 "
+  },
+  " author " : " alexpgm " ,
+  " licence " : " ISC " ,
+  " dépendances " : {
+    " discord.js " : " ^ 11.3.2 "
